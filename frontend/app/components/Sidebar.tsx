@@ -16,7 +16,7 @@ import Icon from "./Icons";
 
 function Sidebar() {
     return (
-        <div className="flex">
+        <div className="flex hidden md:block lg:block overflow-x-auto h-screen sticky top-0 ">
             <div className="w-fit ml-auto pr-10">
 
                 <Icon icon={<BsTwitterX size="26" />} />
@@ -43,7 +43,7 @@ function Sidebar() {
                         <span className="block font-bold text-sm">Raj Mandaviya</span>
                         <span className="font-thin text-sm ">@Rajm150503</span>
                     </div>
-                    <div className=" h-fit ml-10">
+                    <div className=" h-fit ml-10 py-2">
                         <HiOutlineDotsHorizontal size="19" className="" />
                     </div>
                 </button>
