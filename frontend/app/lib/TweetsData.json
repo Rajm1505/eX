@@ -1,0 +1,139 @@
+{
+    "tweets": [
+        {
+            "id": 1,
+            "user": {
+                "name": "Raj",
+                "username": "Rajm150503",
+                "bio": "Passionate Web Dev",
+                "following": 10,
+                "followers": 20,
+                "avatar": "https://i.pravatar.cc/150?u=a042581f4e29026024d"
+            },
+            "content": "Just finished reading a great book! #BookLover #Reading",
+            "timestamp": "2023-12-13T08:30:00Z",
+            "likes": 20,
+            "retweets": 5
+        },
+        {
+            "id": 2,
+            "user": {
+                "name": "Sarah",
+                "username": "SarahG234",
+                "bio": "Explorer of the digital world",
+                "following": 50,
+                "followers": 100,
+                "avatar": "https://i.pravatar.cc/150?u=ea942d75a5ae79c283b"
+            },
+            "content": "Just discovered a hidden gem of a website! 🌐 #DigitalExplorer #WebSurfing",
+            "timestamp": "2023-12-15T12:45:00Z",
+            "likes": 15,
+            "retweets": 3
+        },
+        {
+            "id": 3,
+            "user": {
+                "name": "Emily",
+                "username": "EmilyCodes",
+                "bio": "Coding enthusiast and coffee lover ☕",
+                "following": 30,
+                "followers": 40,
+                "avatar": "https://i.pravatar.cc/150?u=3d4f87e41f753fea74b"
+            },
+            "content": "Late-night coding session with my favorite playlist! 🚀🎧 #CodeLife #Programming",
+            "timestamp": "2023-12-17T02:15:00Z",
+            "likes": 25,
+            "retweets": 8
+        },
+        {
+            "id": 3,
+            "user": {
+                "name": "Emily",
+                "username": "EmilyCodes",
+                "bio": "Coding enthusiast and coffee lover ☕",
+                "following": 30,
+                "followers": 40,
+                "avatar": "https://i.pravatar.cc/150?u=3d4f87e41f753fea74b"
+            },
+            "content": "Late-night coding session with my favorite playlist! 🚀🎧 #CodeLife #Programming",
+            "timestamp": "2023-12-17T02:15:00Z",
+            "likes": 25,
+            "retweets": 8
+        },
+        {
+            "id": 3,
+            "user": {
+                "name": "Emily",
+                "username": "EmilyCodes",
+                "bio": "Coding enthusiast and coffee lover ☕",
+                "following": 30,
+                "followers": 40,
+                "avatar": "https://i.pravatar.cc/150?u=3d4f87e41f753fea74b"
+            },
+            "content": "Late-night coding session with my favorite playlist! 🚀🎧 #CodeLife #Programming",
+            "timestamp": "2023-12-17T02:15:00Z",
+            "likes": 25,
+            "retweets": 8
+        },
+        {
+            "id": 3,
+            "user": {
+                "name": "Emily",
+                "username": "EmilyCodes",
+                "bio": "Coding enthusiast and coffee lover ☕",
+                "following": 30,
+                "followers": 40,
+                "avatar": "https://i.pravatar.cc/150?u=3d4f87e41f753fea74b"
+            },
+            "content": "Late-night coding session with my favorite playlist! 🚀🎧 #CodeLife #Programming",
+            "timestamp": "2023-12-17T02:15:00Z",
+            "likes": 25,
+            "retweets": 8
+        },
+        {
+            "id": 3,
+            "user": {
+                "name": "Emily",
+                "username": "EmilyCodes",
+                "bio": "Coding enthusiast and coffee lover ☕",
+                "following": 30,
+                "followers": 40,
+                "avatar": "https://i.pravatar.cc/150?u=3d4f87e41f753fea74b"
+            },
+            "content": "Late-night coding session with my favorite playlist! 🚀🎧 #CodeLife #Programming",
+            "timestamp": "2023-12-17T02:15:00Z",
+            "likes": 25,
+            "retweets": 8
+        },
+        {
+            "id": 3,
+            "user": {
+                "name": "Emily",
+                "username": "EmilyCodes",
+                "bio": "Coding enthusiast and coffee lover ☕",
+                "following": 30,
+                "followers": 40,
+                "avatar": "https://i.pravatar.cc/150?u=3d4f87e41f753fea74b"
+            },
+            "content": "Late-night coding session with my favorite playlist! 🚀🎧 #CodeLife #Programming",
+            "timestamp": "2023-12-17T02:15:00Z",
+            "likes": 25,
+            "retweets": 8
+        },
+        {
+            "id": 4,
+            "user": {
+                "name": "Alex",
+                "username": "AlexAdventures",
+                "bio": "Adventurous soul with a passion for photography",
+                "following": 75,
+                "followers": 150,
+                "avatar": "https://i.pravatar.cc/150?u=6b3be3c4b03f6a9466a"
+            },
+            "content": "Captured a breathtaking sunset during my latest hike! 🌄 #NaturePhotography #AdventureTime",
+            "timestamp": "2023-12-18T18:20:00Z",
+            "likes": 30,
+            "retweets": 12
+        }        
+    ]
+}
