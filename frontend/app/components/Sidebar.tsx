@@ -25,8 +25,7 @@ function Sidebar() {
                 <Icon icon={<PiBell size="26" />} text="Notifications" />
                 <Icon icon={<HiOutlineEnvelope size="26" />} text="Messages" />
                 <Icon icon={<VscListSelection size="26" />} text="Lists" />
-                <Icon icon={<FaRegBookmark size="26" />} text="Bookmarks" />
-                <Icon icon={<BsPeople size="26" />} text="Communities" />
+                <Icon icon={<FaRegBookmark size="26" />} text="Bookmarks" />                
                 <Icon icon={<BsTwitterX size="26" />} text="Premium " />
                 <Icon icon={<BsPerson size="26" />} text="Profile" />
                 <Icon icon={<CiCircleMore size="26" />} text="More" />
